@@ -69,7 +69,7 @@ namespace UFTEncodingLearning
             Console.Write('\x004D');
 
             Console.WriteLine();
-            // ascii shows the same value as UTF-8
+            // ascii shows the same value as UTF-8 since it's reverse compadiable
             PrintASCII('b');
             PrintHex('b', 7);
 
