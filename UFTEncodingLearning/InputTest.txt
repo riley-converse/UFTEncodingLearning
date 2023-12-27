@@ -1,0 +1,2 @@
+﻿In these examples, red, green, and blue digits indicate how bits from the code point are distributed among the UTF-8 bytes
+$£И한𐍈
